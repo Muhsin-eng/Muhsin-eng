@@ -5,7 +5,7 @@
 
 ---
 
-### 💻 Tech Stack
+### 🧰 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,13 +30,13 @@
 ### 📫 Contact
 
 - ✉️ Email: [daoudamouhsin@gmail.com](mailto:daoudamouhsin@gmail.com)  
-- 🌐 GitHub: [github.com/Muhsin-eng](https://github.com/Muhsin-eng)
+- 🧑‍💻 GitHub: [Muhsin-eng](https://github.com/Muhsin-eng)  
+- 📌 Badge dispo:  
+  ![Available for hire](https://img.shields.io/badge/Available_for_hire-YES-green?style=flat-square&logo=LinkedIn)
 
 ---
 
-> *"Learning by building. Growing by doing."*
-
----
+> _"Learning by building. Growing by doing."_ 💡
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhsin-eng&show_icons=true&theme=radical" alt="GitHub Stats" />
