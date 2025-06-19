@@ -3,6 +3,10 @@
   🌍 Frontend Developer | Passionate about clean UI & responsive design  
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Available_for_hire-YES-green?style=for-the-badge&logo=LinkedIn" alt="Available badge" />
+</p>
+
 ---
 
 ### 🧰 Tech Stack
@@ -27,12 +31,29 @@
 
 ---
 
+### 📚 Currently Learning
+
+- Building responsive websites with Tailwind CSS  
+- DOM manipulation and JavaScript events  
+- GitHub Pages + deployment automation  
+- Writing better README and documentation
+
+---
+
+### 💡 Next Projects
+
+- 🌐 Portfolio website with contact form (GitHub Pages + Replit)  
+- 🎮 Mini JS games (memory, quiz, tic-tac-toe)  
+- 📱 Responsive UI clone (Twitter, WhatsApp, etc.)  
+- 📦 Project with API integration (e.g. weather app)
+
+---
+
 ### 📫 Contact
 
-- ✉️ Email: [daoudamouhsin@gmail.com](mailto:daoudamouhsin@gmail.com)  
-- 🧑‍💻 GitHub: [Muhsin-eng](https://github.com/Muhsin-eng)  
-- 📌 Badge dispo:  
-  ![Available for hire](https://img.shields.io/badge/Available_for_hire-YES-green?style=flat-square&logo=LinkedIn)
+- ✉️ [daoudamouhsin@gmail.com](mailto:daoudamouhsin@gmail.com)  
+- 🧑‍💻 [github.com/Muhsin-eng](https://github.com/Muhsin-eng)  
+- 🔗 LinkedIn (coming soon)
 
 ---
 
@@ -41,3 +62,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhsin-eng&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+<!-- 🇫🇷 Cette version anglaise est conçue pour maximiser la visibilité de Muhsin auprès des recruteurs internationaux. Chaque section reflète son vrai niveau, ses progrès et ses projets futurs. Pour une version FR, demander à Mentor G. -->
